@@ -8,7 +8,7 @@ lastUpdated: 2026-09-17
 
 [**GitHub Copilot app**](https://docs.github.com/copilot/concepts/agents/github-copilot-app) は Copilot CLI を基盤とするデスクトップアプリケーションで、エージェント主導の開発を単一の作業用ワークスペースで実現します。並列エージェントセッション、切り替え可能なセッションモード、共有キャンバス、GitHub Issue と pull request のネイティブ管理機能を備えています。さらに、リベース、レビューのフィードバック、継続的インテグレーション (CI) の修正、マージまで pull request を導く **Agent Merge** も利用できます。
 
-このワークショップでは、Tailspin Toys の1つの連続したワークフローに取り組みます。
+このワークショップでは、Tailspin Toys を使った一連のワークフローに取り組みます。
 
 1. プロジェクトを準備し、アプリをインストールしてリポジトリを接続し、ワークスペースと用意されたバックログを確認します。
 2. 星評価に対象を絞った変更を加えてブラウザーでレビューし、最初の pull request (PR) を手動でマージします。

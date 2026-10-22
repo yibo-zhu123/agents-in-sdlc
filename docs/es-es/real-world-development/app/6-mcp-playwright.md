@@ -56,12 +56,12 @@ La incidencia y tus decisiones de planificación ya están en el contexto. Deté
     Start the app and use Playwright MCP to check filtering against the issue and our plan. Tell me what works and what doesn't, without making changes. Stop the server you started when you're done.
     ```
 
-  > [!NOTE]
-  > No es obligatorio indicar a Copilot que utilice un servidor MCP concreto; normalmente encontrará el adecuado según el contexto actual. Sin embargo, nunca está de más indicarle algo que consideras importante.
+> [!NOTE]
+> No es obligatorio indicar a Copilot que utilice un servidor MCP concreto; normalmente encontrará el adecuado según el contexto actual. Sin embargo, nunca está de más indicarle algo que consideras importante.
 
-  2. Observa cómo trabaja.
+Ahora, observa cómo trabaja.
 
-  Copilot iniciará el servidor, abrirá un navegador e interactuará con el sitio web. Cuando termine, detendrá el servidor y te proporcionará un informe.
+Copilot iniciará el servidor, abrirá un navegador e interactuará con el sitio web. Cuando termine, detendrá el servidor y te proporcionará un informe.
 
 ## Resumen y pasos siguientes
 

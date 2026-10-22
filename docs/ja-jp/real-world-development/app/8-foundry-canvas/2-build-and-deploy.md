@@ -37,6 +37,7 @@ Tailspin Toys には、実際のカタログに関する質問に答え、情報
    ```
 
 3. `azd config show` を実行し、Azure サブスクリプションを確認します。空の場合や誤っている場合は、`azd config set defaults.subscription <subscription-id>` で更新し、`azd config show` を再実行して変更を確認します。
+
 ## Backer Concierge のひな形を作成する
 
 Canvas は、Backer Concierge を既存のモデルデプロイに接続するためのコード、フォルダー構造、ルートの `azure.yaml` のひな形を作成します。

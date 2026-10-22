@@ -7,7 +7,7 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-通过适合初学者的动手实践探索 Visual Studio Code 中的 GitHub Copilot。从空文件夹构建色彩丰富的 Space Quiz，学习以编辑器为中心的工作流：在工作区中构建，检查上下文，在向 Git 写入任何内容之前测试，先规划再编辑，并让 GitHub 工具处理议题和拉取请求，全程无需离开 VS Code。
+通过适合初学者的动手实践探索 Visual Studio Code 中的 GitHub Copilot。从空文件夹构建色彩丰富的 Space Quiz，学习以编辑器为中心的工作流：在工作区中构建，检查上下文，在向 Git 写入任何内容之前测试，先规划再编辑，并让 GitHub 工具处理议题、拉取请求和云会话，全程无需离开 VS Code。
 
 本研讨会约需 60 到 90 分钟。项目只有一个 HTML 文件，没有运行时依赖项，因此可以专注于学习编辑器中的 Copilot。
 

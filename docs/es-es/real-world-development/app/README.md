@@ -3,7 +3,7 @@ slug: es-es/real-world-development/app
 title: "Aplicación GitHub Copilot"
 authors:
   - geektrainer
-lastUpdated: 2026-06-30
+lastUpdated: 2026-09-17
 ---
 
 La [**aplicación GitHub Copilot**](https://docs.github.com/copilot/concepts/agents/github-copilot-app) es una aplicación de escritorio basada en Copilot CLI que reúne el desarrollo dirigido por agentes en un único espacio de trabajo específico. Añade sesiones de agente en paralelo, modos de sesión intercambiables, lienzos compartidos y gestión nativa de incidencias y solicitudes de incorporación de cambios de GitHub, incluido **Agent Merge**, que guía una solicitud durante reorganizaciones de base, comentarios de revisión, correcciones de CI y la combinación.

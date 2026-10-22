@@ -56,7 +56,7 @@ Run a browser-level smoke test for the quiz in the integrated browser. Check key
 
 1. Observe o navegador integrado enquanto o agente percorre as perguntas.
 2. Se algo falhar, deixe o agente corrigir o problema e executar o teste novamente até que tudo passe.
-3. Avance apenas quando a criação do projeto e o teste tiverem sido concluídos com sucesso.
+3. Avance apenas quando a compilação e os testes tiverem sido concluídos com sucesso.
 
 Nada foi gravado no Git ainda. Na próxima lição, você executará `/init create simple rules for the project`, que lê o projeto no estado atual, então vale a pena garantir primeiro que o projeto funciona.
 

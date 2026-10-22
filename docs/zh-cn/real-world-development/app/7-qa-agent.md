@@ -39,6 +39,8 @@ lastUpdated: 2026-09-17
 
 ## 检查配置文件
 
+使用新智能体前，先审查其配置文件，确认 Copilot 捕捉到了预期的 QA 工作流和权限边界。这样可以避免配置不完整或权限范围过宽的智能体在你只想验证功能时擅自更改功能。
+
 1. 打开 **Changes**，选择 `.github/agents/qa.agent.md`。
 2. 阅读 frontmatter。`description` 是必需字段；`name` 可选，但添加后可为智能体提供明确的显示名称。
 3. 阅读配置文件指令，确认 QA 从需求出发、遵循存储库指令、运行 `quality-checks` 技能并使用 Playwright MCP。

@@ -56,12 +56,12 @@ Issue と計画時の決定事項は、すでにコンテキストに含まれ�
     Start the app and use Playwright MCP to check filtering against the issue and our plan. Tell me what works and what doesn't, without making changes. Stop the server you started when you're done.
     ```
 
-  > [!NOTE]
-  > 使用する MCP server を Copilot に明示する必要はありません。通常は現在のコンテキストに基づいて適切なものを見つけます。ただし、重要だと考える情報を Copilot に伝えても問題はありません。
+> [!NOTE]
+> 使用する MCP server を Copilot に明示する必要はありません。通常は現在のコンテキストに基づいて適切なものを見つけます。ただし、重要だと考える情報を Copilot に伝えても問題はありません。
 
-  2. あとは動作を見守ります。
+2. あとは動作を見守ります。
 
-  Copilot はサーバーを起動してブラウザーを開き、Web サイトを操作します。完了するとサーバーを停止し、レポートを提供します。
+Copilot はサーバーを起動してブラウザーを開き、Web サイトを操作します。完了するとサーバーを停止し、レポートを提供します。
 
 ## まとめと次のステップ
 

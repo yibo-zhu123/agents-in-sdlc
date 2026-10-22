@@ -32,7 +32,7 @@ Run a browser-level smoke test for the quiz. Check keyboard navigation, score up
 
 1. Execute o teste básico de funcionamento e verifique o navegador integrado.
 2. Corrija eventuais falhas e execute o teste novamente até que tudo passe.
-3. Avance para o Git somente depois que a criação do projeto e o teste tiverem sido concluídos com sucesso.
+3. Avance para o Git somente depois que a compilação e os testes tiverem sido concluídos com sucesso.
 
 ## Resumo e próximos passos
 

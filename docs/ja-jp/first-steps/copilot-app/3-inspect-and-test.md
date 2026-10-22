@@ -65,3 +65,4 @@ Run a browser-level smoke test for the quiz in the integrated browser. Check key
 セッションのプロジェクトと使用状況の詳細を確認し、ブラウザーレベルのスモークテストでクイズを検証しました。[レッスン 4: プロジェクトの指示の記録][next-lesson]に進みます。
 
 [next-lesson]: ../4-project-instructions/
+[publish-lesson]: ../5-publish/

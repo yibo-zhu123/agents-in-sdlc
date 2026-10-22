@@ -37,6 +37,7 @@ La inspección y la implementación del agente hospedado utilizan Azure Develope
    ```
 
 3. Ejecuta `azd config show` para verificar la suscripción de Azure. Si está vacía o es incorrecta, actualízala con `azd config set defaults.subscription <subscription-id>` y vuelve a ejecutar `azd config show` para confirmar el cambio.
+
 ## Generar la estructura inicial de Backer Concierge
 
 Canvas genera el código, la estructura de carpetas y el archivo `azure.yaml` de la raíz que conectan Backer Concierge con la implementación del modelo existente.
